@@ -1,3 +1,3 @@
 # Member-App
 
-Demo Project to learn Node JS
+Demo Project to learn Express JS
